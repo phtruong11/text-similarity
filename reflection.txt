@@ -1,6 +1,13 @@
 Phuong Truong
 reflection.txt
 
-I chose four articles from the New York Times for the first source. The topics of these articles are health and diseases, Earth environment, and political views. For the second source, I chose four articles from the Wall Street Journals. The topics of these articles are U.S. economy, health and diseases, and climate change. For the new texts, I chose four articles from Boston Globe, CNN, Forbes, and Fox News to compare against the sources. Using the model I built in final project, the results of my comparisons are: Boston Globe, Forbes, and Fox News are more likely to have come from New York Times, while CNN is more likely to have come from Wall Street Journals. 
+I chose four articles from the New York Times for the first source. The topics of these articles are health and diseases, Earth environment, and political views. 
+For the second source, I chose four articles from the Wall Street Journals. The topics of these articles are U.S. economy, health and diseases, and climate change. 
+For the new texts, I chose four articles from Boston Globe, CNN, Forbes, and Fox News to compare against the sources. Using the model I built in final project, the 
+results of my comparisons are: Boston Globe, Forbes, and Fox News are more likely to have come from New York Times, while CNN is more likely to have come from Wall 
+Street Journals. 
 
-My text classification program was successfully able to quantify how similar one piece of text is to another. When I used another left out article from the New York Times and the Wall Street Journals to perform tests, my program correctly identified that the Times article that I left out is really more similar to other New York Times article than it is to the WSJ articles, and it is also true for the left out article from WSJ. However, I could improve my program to ensure it works more correctly by improving my stem function with more cases. 
+My text classification program was successfully able to quantify how similar one piece of text is to another. When I used another left out article from the New York 
+Times and the Wall Street Journals to perform tests, my program correctly identified that the Times article that I left out is really more similar to other New York 
+Times article than it is to the WSJ articles, and it is also true for the left out article from WSJ. However, I could improve my program to ensure it works more 
+correctly by improving my stem function with more cases. 
